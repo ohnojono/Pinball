@@ -15,7 +15,7 @@ hello@jonosandilands.com
 
 Project Details
 ---------------
-Start Date
+###### Start Date
 Thursday 24 September 2015
 
 ###### End Date 
@@ -25,6 +25,8 @@ Thursday 24 September 2015
 To Follow
 
 ###### Timeline
+
+To do: Split into stages with major deadlines then drill down details within each project and stage
 
 | Project        | Milestone          | Date  |
 | ---------------- |-------------| -----|
