@@ -25,6 +25,7 @@ Thursday 24 September 2015
 To Follow
 
 ###### Timeline
+See [detailed timeline for Pinball Project](../Pinball/README.md)
 
 | Project        | Milestone          | Date  |
 | ---------------- |-------------| -----|
