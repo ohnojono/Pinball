@@ -1,5 +1,5 @@
 Pinball
-==================
+=======
 
 A repository for final year project on MA Multi-Disciplinary Printmaking, UWE, Bristol, UK.
 (Sept 2015 - June 2016)
@@ -15,3 +15,4 @@ Copyright (c) 2015, Jono Sandilands
 Proposal
 --------
 
+[Project Proposal](../Proposal/Proposal.markdown)
