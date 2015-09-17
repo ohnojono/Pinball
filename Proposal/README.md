@@ -29,21 +29,21 @@ See [detailed timeline for Pinball Project](../Pinball/README.md)
 
 | Project        | Milestone          | Date  |
 | ---------------- |-------------| -----|
-| **Pinball** | *Stage 1 Start*      |    24/10/15 |
-| **Mini Print** | *Artwork Draft*      |    24/10/15 |
+| **[Pinball](../Pinball)** | *[Stage 1](../Pinball#stage-1---concept--planning) Start*      |    24/10/15 |
+| **[Mini Print](../Mini%20Print)** | *Artwork Draft*      |    24/10/15 |
 | **Tutorial** | **      |    1/10/15, 8/10/15 *or* 15/10/15  |
-| **Mini Print** | *Printing begins*      |    8/10/15 |
-| **Pinball** | *Stage 2 Start*      |    8/10/15 |
-| **Pinball** | *Stage 1 End*      |    5/11/15 |
-| **Pinball** | *Stage 3 Start*      |    5/11/15 |
-| **Mini Print** | *Deadline*      |    12/11/15 |
-| **Pinball** | *Stage 3 End*      |    3/12/15 |
-| **Pinball** | *Stage 2 End*      |    7/1/16 |
+| **[Mini Print](../Mini%20Print)** | *Printing begins*      |    8/10/15 |
+| **[Pinball](../Pinball)** | *[Stage 2](../Pinball#stage-2---digital--game-development) Start*      |    8/10/15 |
+| **[Pinball](../Pinball)** | *Stage 1 End*      |    5/11/15 |
+| **[Pinball](../Pinball)** | *[Stage 3](../Pinball#stage-3---printmaking--cabinet-build) Start*      |    5/11/15 |
+| **[Mini Print](../Mini%20Print)** | *Deadline*      |    12/11/15 |
+| **[Pinball](../Pinball)** | *Stage 3 End*      |    3/12/15 |
+| **[Pinball](../Pinball)** | *Stage 2 End*      |    7/1/16 |
 | **Review** | **      |    14/1/16  |
-| **Pinball** | *Stage 4 Start*      |    21/1/16 |
-| **Pinball** | *Stage 4 End*      |    28/4/16 |
-| **Pinball** | *Stage 5 Start*      |    28/4/16 |
-| **Marble Run** | *Build & Development (if time)*      |    May 2016 |
+| **[Pinball](../Pinball)** | *[Stage 4](../Pinball#stage-4---playfield-build--game-testing) Start*      |    21/1/16 |
+| **[Pinball](../Pinball)** | *Stage 4 End*      |    28/4/16 |
+| **[Pinball](../Pinball)** | *[Stage 5](../Pinball#stage-5---final) Start*      |    28/4/16 |
+| **[Marble Run](../Marble%20Run)** | *Build & Development (if time)*      |    May 2016 |
 | **Final Hand In** | *The end*      |    1/6/16 |
 
 
