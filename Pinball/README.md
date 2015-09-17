@@ -8,6 +8,7 @@ Detailed Timeline
 
 ###### Stage 1 - Concept & Planning
 24 September - 5 November
+
 | Milestone          | Date  |
 |-------------| -----|
 | **Proposal** | 24/9/15 |
@@ -16,6 +17,7 @@ Detailed Timeline
 
 ###### Stage 2 - Digital & game development 
 8 October - 7 January
+
 | Milestone          | Date  |
 |-------------| -----|
 | **Initial Digital Drawings**      |    8/10/15 |
@@ -25,6 +27,7 @@ Detailed Timeline
 
 ###### Stage 3 - Printmaking & Cabinet build
 5 November - 3 December
+
 | Milestone          | Date  |
 |-------------| -----|
 | **Prints v1**      |    3/12/15 |
@@ -33,6 +36,7 @@ Detailed Timeline
 
 ###### Stage 4 - Playfield Build & game testing
 21 January -  28 April
+
 | Milestone          | Date  |
 |-------------| -----|
 | **V1 Playfield, Electronics & Mechanisms**      |    21/1/16 |
@@ -42,6 +46,7 @@ Detailed Timeline
 
 ###### Stage 5 - Final
 28 April - 1 June
+
 | Milestone          | Date  |
 |-------------| -----|
 | **Prints v2**      |    28/4/16 |
