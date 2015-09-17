@@ -15,4 +15,4 @@ Copyright (c) 2015, Jono Sandilands
 Proposal
 --------
 
-[Project Proposal](../Proposal/Proposal.markdown)
+[Project Proposal](/Proposal/Proposal.markdown)
