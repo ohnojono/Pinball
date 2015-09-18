@@ -87,3 +87,21 @@ Workflow:
 
 - **Shape** drawn in **Illustrator** saved as svg / **Blender** import + scale + convert to mesh + extrude etc
 
+## **004** - 18/9/15
+
+- [Mockup - background](Experiments/004/MP_experiment_004.jpg)
+- [Mockup - no background](Experiments/004/MP_experiment_004_no_bg.jpg)
+- [Mockup - no background - grain mix](Experiments/004/MP_experiment_004_grain_mix.jpg)
+- [Blender File](Experiments/004/004.blend)
+
+Curbing my curiosity a bit with this experiment. Basically wondering about going totally flat with the style instead of the grain, which is making things a bit murky looking. There's options to explore here. It may well be about finding a balance.
+
+One with background could be a digital print - I don't have to constrain myself to screenprinting. 
+Second just by removing the background maybe helps. Third is a mix with no background and grain (with key colour grey). Liking where it's going.
+
+The concept and qualities I originally wanted to achieve was to create this grainy vision (in a way reacreating a thought from a visual/dreamy memory). The diffusion dither lends itself well to screenprinting too.
+
+Getting more familiar with Blender already, so far this has been a good excercise. I often find myself guided by software, so this was a good test of having an idea and trying to execute is as I envisioned.
+
+
+
