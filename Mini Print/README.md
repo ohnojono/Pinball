@@ -68,6 +68,22 @@ Workflow:
 Imporving the vividness of the representation of colour. 2 versions trying out the two ideas I had from 001 - to export the colour layers flat (with no shading) and change the key colour from black to (in this case) purple. Much happier with these results.
 
 Workflow: 
+
 - **Key Layer** Material white + increased intensity / **Blender** render image / **Photoshop** Diffusion Dither
 - **Colour Layer** Material coloured shadeless / **Blender** render image / **Photoshop** Flat artwork as exported
+
+## **003** - 18/9/15
+
+- [Mockup](Experiments/003/MP_experiment_003.jpg)
+- [Blender File](Experiments/003/003.blend)
+
+Ok I need to work with more complex shapes, not just the out of the box ones in Blender. Start by drawing a pinball flipper using similar methods to my previous examples. 
+
+Importing Illustrator files as .svg. I'm comfortable drawing in Illustrator so think this could be the best way for me. I had some problems with the export settings from Illustrator to get .svg files into blender [this forum post solved it](http://blenderartists.org/forum/showthread.php?326843-MAJOR-problem-Illustrator-CC-SVG-and-Blender-2-69&s=a68145dbf7fa608fea797b03b7e23c6e&p=2576229&viewfull=1#post2576229). 
+
+[This tutorial](https://youtu.be/VZDR8nCYdvU?t=8m40s) was helpful for working out some more things to know in Blender when importing .svg from Illustrator. (Convert to mesh from curve)
+
+Workflow: 
+
+- **Shape** drawn in **Illustrator** saved as svg / **Blender** import + scale + convert to mesh + extrude etc
 
