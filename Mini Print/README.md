@@ -103,5 +103,22 @@ The concept and qualities I originally wanted to achieve was to create this grai
 
 Getting more familiar with Blender already, so far this has been a good excercise. I often find myself guided by software, so this was a good test of having an idea and trying to execute is as I envisioned.
 
+## **005** - 19/9/15
 
+- [Mockup](Experiments/005/MP_experiment_005.jpg)
+- [Blender File](Experiments/005/005.blend)
+
+Attempting to execute an idea of using a pinball cabinet to the size of the mini print, rotated at an orthographic angle instead of being straight. After playing around a bit I decide that wasn't working, as it looked like it was floating, hence why adding the legs.
+
+This is really an excercide in mapping images onto the 3D object - UV mapping.
+
+The designs are based on an old pinball machine that I am currently restoring. I'm going to need to recreate some of the graphics on it so I figure it would be good practice to recreate it in 3D too. If I go forward with this I'll add the playfield and maybe the backbox too.
+
+It'll be even better screenprinted, but will need more work to seperate and retain a flat shadowed look.
+
+[This tutorial](https://www.youtube.com/watch?v=f2-FfB9kRmE) and [This one](https://www.youtube.com/watch?v=zh280Id_eXg) were helpful.
+
+Workflow: 
+
+- **Blender** UV mapping  - export UV Map and place graphics in **Photoshop** Import mapped art into place
 
