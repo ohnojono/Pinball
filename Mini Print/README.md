@@ -122,3 +122,25 @@ Workflow:
 
 - **Blender** UV mapping  - export UV Map and place graphics in **Photoshop** Import mapped art into place
 
+## **006** - 20/9/15
+
+- [Mockup](Experiments/006/MP_experiment_006.jpg)
+- [Blender File](Experiments/006/006.blend)
+
+I was curious about adding the flipper I had previously drawn to the blank playfield of the cabinet I drew in the last experiment, obviously I didn't want to draw the flipper again, but I also knew there would be a way to work with external files - *linking* (retains a link to the original file so if any updates are made these will come through) or *appending* (just takes a copy basically).
+
+[This tutorial](https://www.youtube.com/watch?v=jIJ5n21J3EY) explains appending and linking from other files. 
+
+I should start making a bank of pinball parts which I can just link into the files I make. Keeping each part seperate will be good for project management.
+
+I've added the bumpers for the Expressway pinball machine, along with some rough placements for some other parts. 
+
+Note the importantce of file management (if files move this destorys links) and also naming layers - I haven't been doing this so far - many layers name 'cube' isn't helpful when linking objects.
+
+http://www.cgtextures.com/ for textures.
+
+
+Workflow: 
+
+- **Blender** Link  - import *Object* (note not the *mesh*) from another Blender file (.blend)
+
